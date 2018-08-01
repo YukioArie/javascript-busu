@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Ciclovias e Ciclofaixas.kml</name>
+	<StyleMap id="m_ylw-pushpin002">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin00">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0055</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin202">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>b20000ff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin012">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin0002">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>b200ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin81">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin310</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin310">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>b200ff00</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0010</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin202">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3110</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1400">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin400</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2020</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin16">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>b200ff00</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin001">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>b20000ff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>b20000ff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff55</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin400">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>b200ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin34">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0002</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin400</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin001">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>b200ff00</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl00">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>b200ff00</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin131">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>b200ff00</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin15000">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>b200ff00</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2020">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>b20000ff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0000">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>b20000ff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin66">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0055</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin14001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin402</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin202</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin400">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>b20000ff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff55</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2000">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>b200ff00</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin400">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin15000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin131</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin710">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>b200ff00</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin105">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin66</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin402">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>b20000ff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin20">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>b200ff00</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0010">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>b200ff00</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin3110">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>b20000ff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin710</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin16</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Ciclovias e Ciclofaixas</name>
+		<open>1</open>
+		<Placemark>
+			<name>Ciclovia Antonio de Castro</name>
+			<styleUrl>#m_ylw-pushpin012</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-41.31864450423573,-21.73317034738074,0 -41.31673047256172,-21.73198772743582,0 -41.31545505747886,-21.73119320049607,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Ciclo-rota Goytacazes</name>
+			<styleUrl>#msn_ylw-pushpin34</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-41.2745418235254,-21.83067532012843,0 -41.27428689893398,-21.83080648334102,0 -41.27272568458441,-21.83115737339359,0 -41.27062701537336,-21.83168429913355,0 -41.26933912749622,-21.83211576119401,0 -41.26726254394492,-21.83256408081,0 -41.26672250686735,-21.83263324392361,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Ciclo-rota Barão de Miracema</name>
+			<styleUrl>#msn_ylw-pushpin34</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-41.32728849909624,-21.75419652937378,0 -41.32799379804563,-21.75586252549559,0 -41.32877667377473,-21.75803896925102,0 -41.32946481536555,-21.75985840113737,0 -41.32990630375168,-21.76106003901305,0 -41.33020712407028,-21.76192175669344,0 -41.33099685010473,-21.76315600144143,0 -41.33183937523661,-21.76442239077099,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Ciclovia Lourival Martins</name>
+			<styleUrl>#msn_ylw-pushpin202</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-41.29987884884857,-21.78643329112596,0 -41.29999272352395,-21.79125725753785,0 -41.29918255046622,-21.79603550027332,0 -41.29685963374188,-21.80452603530921,0 -41.29526791804264,-21.81073497980209,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Ciclovia Nazário P. Gomes</name>
+			<styleUrl>#msn_ylw-pushpin1400</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-41.32680615840969,-21.72888273552708,0 -41.32791618189452,-21.72952197338849,0 -41.3284674563123,-21.72989725783978,0 -41.32893409868341,-21.73027818400339,0 -41.32974916886353,-21.73125950106626,0 -41.33012981554133,-21.73173755448474,0 -41.33039951768959,-21.73341635727834,0 -41.33049101511091,-21.73370229748846,0 -41.33071875691505,-21.73407948791151,0 -41.33090248565628,-21.734289239405,0 -41.33126668390684,-21.7346018083046,0 -41.33159578195951,-21.73485200440948,0 -41.33202521632514,-21.73516976845569,0 -41.3321531103105,-21.73531638766634,0 -41.33227026964895,-21.7355447597145,0 -41.33238992290426,-21.73595221527387,0 -41.332442582649,-21.73609438783888,0 -41.33260299476985,-21.73639505381431,0 -41.33269423135739,-21.73660780570326,0 -41.33275604081898,-21.73712283555688,0 -41.33276467995989,-21.73744943678074,0 -41.33271712245677,-21.73773034290331,0 -41.33253739920377,-21.73823415632535,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Ciclovia José C. P. Pinto</name>
+			<styleUrl>#msn_ylw-pushpin14001</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-41.31068769209605,-21.75006147827716,0 -41.31112275614449,-21.74902995900373,0 -41.31151479428645,-21.74842940095711,0 -41.31226909023557,-21.74726923193646,0 -41.31239493793102,-21.74679106081811,0 -41.3127036100678,-21.74557527251305,0 -41.3134457615802,-21.74409971635732,0 -41.31335848884051,-21.74315428709749,0 -41.31339472894941,-21.74274051830414,0 -41.31351352242805,-21.74081425248978,0 -41.31361592493284,-21.73899209674931,0 -41.31371875078139,-21.73860147895385,0 -41.31440422142491,-21.73759191045131,0 -41.31560748714108,-21.73585128263546,0 -41.31580614155761,-21.73550552168026,0 -41.31588514346417,-21.73512921294758,0 -41.31586472950421,-21.73478754134297,0 -41.31560841320331,-21.73276512803108,0 -41.31545382546555,-21.73143501193106,0 -41.31548225496369,-21.72947562739547,0 -41.31557405524708,-21.7273100650017,0 -41.31559066540906,-21.72705055112864,0 -41.3157064298239,-21.72648926861459,0 -41.31581235543545,-21.72603046381092,0 -41.31613395752731,-21.72557606023991,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Ciclovia Arthur Cardoso Filho</name>
+			<styleUrl>#msn_ylw-pushpin14001</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-41.30021354193961,-21.78570042826473,0 -41.29751039311442,-21.78371723800451,0 -41.29520908894797,-21.78207965192367,0 -41.29292517264634,-21.78040890457832,0 -41.29027172582501,-21.77866247003486,0 -41.2890665267306,-21.77772979375339,0 -41.28743703247444,-21.77651952553053,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Ciclovia Alberto Lamego</name>
+			<styleUrl>#msn_ylw-pushpin14001</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-41.30943357035288,-21.76016280568536,0 -41.29135881903095,-21.76368012755743,0 -41.2784360638006,-21.76617770840582,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Ciclovia Felipe Uebe</name>
+			<styleUrl>#msn_ylw-pushpin14001</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-41.31530133063865,-21.77013507006041,0 -41.30948650901222,-21.76014296387393,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Ciclovia 28 de Março</name>
+			<styleUrl>#msn_ylw-pushpin14001</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-41.34084135519869,-21.75798054757943,0 -41.34145527181308,-21.75981928634356,0 -41.34152560617425,-21.76045909998562,0 -41.34131454095983,-21.7609817301911,0 -41.34093851329018,-21.76152166403418,0 -41.34042936591936,-21.7618394098815,0 -41.33914968028535,-21.76224040374634,0 -41.3358166046068,-21.76322430246184,0 -41.32940823270891,-21.7652082342089,0 -41.32192742971311,-21.76748696995644,0 -41.31871970911509,-21.76846652415421,0 -41.31721126700116,-21.76945513738506,0 -41.31596948663214,-21.77007327123885,0 -41.31536392745385,-21.77011008159492,0 -41.31504892638484,-21.77032926000527,0 -41.31411180327626,-21.77067202813054,0 -41.31291027530561,-21.77141799775832,0 -41.31198174184741,-21.77195663411277,0 -41.31014546636353,-21.77352700571453,0 -41.30906240794355,-21.77528152410613,0 -41.30736254664303,-21.77724831126333,0 -41.30675134792142,-21.77780051822214,0 -41.30617581355848,-21.77819854964071,0 -41.3048924888506,-21.77893724787932,0 -41.30390873373548,-21.78004651370868,0 -41.30220031343161,-21.78220614983447,0 -41.30192630679584,-21.78259070866779,0 -41.30162513034848,-21.78363793811434,0 -41.30098637498279,-21.78492527256692,0 -41.30049222047327,-21.78579091564237,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Ciclovia Arthur Bernades</name>
+			<styleUrl>#msn_ylw-pushpin14001</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-41.3457260590307,-21.76699371606657,0 -41.34517758678793,-21.76847389180379,0 -41.34214347607627,-21.77200963241629,0 -41.33896684842473,-21.77556530784525,0 -41.3383178926818,-21.77608652428469,0 -41.33705247070041,-21.77656367809911,0 -41.32632338937613,-21.78034101754686,0 -41.32504411451474,-21.78075296737689,0 -41.32318689663466,-21.78100566249126,0 -41.31875554165789,-21.78112159977909,0 -41.31581316206176,-21.78116389127774,0 -41.31063791402634,-21.78096234141896,0 -41.31010209919489,-21.78065406571463,0 -41.30944591835274,-21.78005703847186,0 -41.30766372026429,-21.77791656276819,0 -41.3047860865634,-21.77394176945867,0 -41.29789602622517,-21.77011798815392,0 -41.29619384254857,-21.76894901571848,0 -41.29495428986233,-21.76747753751724,0 -41.29191045842933,-21.76374354008638,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Ciclofaixa Pedro R. Vasconcelos</name>
+			<styleUrl>#msn_ylw-pushpin81</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-41.31744084098146,-21.74222762756693,0 -41.31711110097346,-21.74230749075364,0 -41.3167965532778,-21.7422028488623,0 -41.31642197594199,-21.74140622454376,0 -41.31596596799961,-21.74161750526967,0 -41.31547320242922,-21.74165808860287,0 -41.31483395886541,-21.74168167776752,0 -41.31348977623387,-21.74166070291257,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Ciclofaixa Newton Guaraná</name>
+			<styleUrl>#m_ylw-pushpin002</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-41.29660674520655,-21.79201580629822,0 -41.29529970085968,-21.79293145293579,0 -41.29246767202528,-21.79134864774472,0 -41.29223907140722,-21.79128817969742,0 -41.29210431596434,-21.79135331038082,0 -41.29048723056235,-21.79315987724287,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Ciclofaixa R. Salo Brand</name>
+			<styleUrl>#msn_ylw-pushpin81</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-41.32439030725206,-21.75106803964227,0 -41.32339498909839,-21.74888867233127,0 -41.32177236756542,-21.74668733225138,0 -41.31985666056452,-21.74402960201813,0 -41.31820087929881,-21.74250661663918,0 -41.3177291443894,-21.74226725557782,0 -41.31778170471669,-21.74221531538328,0 -41.31813981627752,-21.74240704998914,0 -41.31854194964372,-21.74275959085627,0 -41.31889233704412,-21.74309779741178,0 -41.31952778094945,-21.74368328402895,0 -41.31989180689015,-21.74400766817377,0 -41.31998092393584,-21.74415402122492,0 -41.32072025093925,-21.74515199499157,0 -41.32152739590455,-21.74629105759739,0 -41.32229225196576,-21.74733055528249,0 -41.32316231393004,-21.74851313254485,0 -41.32342551189139,-21.7488706668776,0 -41.32380544240242,-21.74969825630272,0 -41.32429436279686,-21.750779115498,0 -41.32441053848623,-21.75102476935519,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Ciclofaixa 7 de Setembro</name>
+			<styleUrl>#m_ylw-pushpin002</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-41.32164672490072,-21.75772086896068,0 -41.31696688572206,-21.75870238775798,0 -41.31050108074722,-21.75995221227264,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Ciclofaixa R. Caldas Viana</name>
+			<styleUrl>#msn_ylw-pushpin81</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-41.31190878467931,-21.7645827421733,0 -41.30617907040726,-21.76742217230664,0 -41.30174969153946,-21.77001624650185,0 -41.29834826438927,-21.77319327034573,0 -41.2929246533119,-21.77813790580883,0 -41.29179936630097,-21.77947200706152,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Ciclofaixa R .Dr. Raul Abot Escobar</name>
+			<styleUrl>#msn_ylw-pushpin001</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-41.31122806788907,-21.7632891591242,0 -41.30533929947331,-21.76619309138932,0 -41.30195609933667,-21.76811529084752,0 -41.30076719089303,-21.76891982149666,0 -41.29609993600133,-21.77312268683419,0 -41.2923698641163,-21.77659327307803,0 -41.29058351668196,-21.77872461519766,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Ciclofaixa R. Coronel Germano de Castro</name>
+			<styleUrl>#msn_ylw-pushpin81</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-41.34150955373833,-21.75986946340971,0 -41.34661312623565,-21.75978964579297,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Ciclofaixa Av. José Alves de Azevedo</name>
+			<styleUrl>#msn_ylw-pushpin81</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-41.3292862995014,-21.76509936666094,0 -41.32850719971378,-21.7629764452653,0 -41.32748098440839,-21.76058033510864,0 -41.3267093873767,-21.75881709374149,0 -41.32684399138838,-21.75877195950765,0 -41.32751336682762,-21.7603177412019,0 -41.32858331647207,-21.76273286182201,0 -41.32942188467666,-21.7649260283602,0 -41.32945523016804,-21.76503750350684,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Ciclofaixa Av. Souza Mota</name>
+			<styleUrl>#msn_ylw-pushpin81</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-41.33119097370262,-21.74029825221972,0 -41.32568639124825,-21.73554330857386,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Ciclofaixa Ponte Barcelos Martins</name>
+			<styleUrl>#msn_ylw-pushpin000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-41.32655475840521,-21.75233370464098,0 -41.32438898006942,-21.75106907572275,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Ciclofaixa Alberto Torres</name>
+			<styleUrl>#msn_ylw-pushpin400</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-41.32361416686766,-21.75559529990829,0 -41.3250972531863,-21.75501574323779,0 -41.32825930519282,-21.75379403906054,0 -41.33235076554018,-21.75238107619332,0 -41.33576923851424,-21.75125022295629,0 -41.33960352686948,-21.74997231510222,0 -41.34355389819874,-21.74871362135019,0 -41.3472425989162,-21.74750574167386,0 -41.34954791539325,-21.74675681824182,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Ciclofaixa Bartolomeu Lisandro</name>
+			<styleUrl>#msn_ylw-pushpin81</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-41.33024309076903,-21.74226533994044,0 -41.32974818394872,-21.74313301994594,0 -41.32882362450224,-21.74405176554489,0 -41.32649991627352,-21.745927158029,0 -41.32533616494759,-21.74725081552719,0 -41.32500418074035,-21.74788864257017,0 -41.32490768722746,-21.74838013866406,0 -41.324894413983,-21.74902920819953,0 -41.32459103083501,-21.75033310599319,0 -41.32437487097945,-21.75086209201774,0 -41.32401878342699,-21.75141151227914,0 -41.32351801149529,-21.75166540474561,0 -41.32267324261607,-21.75197225553471,0 -41.32058548480143,-21.7522384623884,0 -41.31863657578888,-21.75240746999584,0 -41.31746209545307,-21.75201454803805,0 -41.31578674121867,-21.75152942235326,0 -41.3139166686533,-21.75093917385082,0 -41.31317016908193,-21.7507374554228,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Ciclofaixa Messias Urbano dos Santos</name>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-41.3114703921439,-21.74855162544566,0 -41.31436091383007,-21.74968237498654,0 -41.31435590672442,-21.74975529761351,0 -41.31143152762891,-21.74865306820078,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Ciclovia sob a ponte Alair Ferreira</name>
+			<styleUrl>#msn_ylw-pushpin1400</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-41.33216402957409,-21.73867502326365,0 -41.33267769649885,-21.7391702353551,0 -41.33341195466804,-21.7407385221435,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Caminho sem título</name>
+			<styleUrl>#msn_ylw-pushpin105</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-41.32887749992116,-21.75800490076539,0 -41.32658381065572,-21.75868392073204,0 -41.32011912605213,-21.76080976702827,0 -41.31678247380243,-21.76132234062042,0 -41.3112984895854,-21.76312636639076,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
