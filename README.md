@@ -1,2 +1,2 @@
 # Javascript-busu
-A few javascript functions used in the busú app
+A few javascript functions for the busú app
