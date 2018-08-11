@@ -5,7 +5,7 @@ function initMap() {
     });
   
     var ciclovias = new google.maps.KmlLayer({
-      url: 'https://raw.githubusercontent.com/EnzoRobaina/Javascript-busu/master/ciclovias.kml',
+      url: 'https://raw.githubusercontent.com/EnzoRobaina/javascript-busu/master/linestring.kml',
       map: map
     });
   }
